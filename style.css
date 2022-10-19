@@ -2,8 +2,8 @@
     border-radius: 32px;
     margin: 10px 10px;
     padding: 16px;
-    border-color: rgb(0, 102, 255);
-    
+    border-color: rgb(12, 116, 214);
+    background-color: rgb(243, 236, 197);
 	
 }
 .mat-card#first-card{
@@ -194,19 +194,22 @@ div.log-image-container {
 }
   
 
-.qta card h3 {
-	font-size: 1.8rem;
+div.card-qta h3 {
+    font-size: 1.8rem;
 	display: inline;
 	font-weight:500;
 	line-height: 1.25;
 	word-wrap:breack-word;
 	word-break:break-word;
+	margin-bottom: 0px;
+	
 }
  
-ul.qta card li{
+ul.card-qta li {
 	font-size: 1rem;
 	font-weight: 500;
 	align-self: center;
 	vertical-align: baseline;
+	margin-bottom: 2px;
 
 }
